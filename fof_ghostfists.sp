@@ -79,28 +79,7 @@ stock ScanAllConVars() {
     flFistsPrice = GetConVarFloat(fof_ghostfists_price);
     bAllowFistsFists = GetConVarBool(fof_ghostfists);
 }
-/*
-stock int GetWeaponEntityIndexByClassname(int iClient, char[] sWeapon_Classname)
-{
-    for (int i = 0; i < 4; i++)
-    {
-        int iWeapon_Entity_Index = GetPlayerWeaponSlot(iClient, i);
-        
-        if (iWeapon_Entity_Index != -1)
-        {
-            int iEntity = -1;
-            
-            while ((iEntity = FindEntityByClassname(iEntity, sWeapon_Classname)) != INVALID_ENT_REFERENCE)
-            {
-                if (iWeapon_Entity_Index == iEntity)
-                    return iEntity;
-            }
-        }
-    }
-    
-    return -1;
-} 
-*/
+
 NewClient(userid, client = -1)
 {
     if (client == -1)
