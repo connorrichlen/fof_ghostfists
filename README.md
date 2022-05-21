@@ -1,13 +1,14 @@
 
 
+
 # [FOF] Buy Ghost Fists Addon
 
-<p align="center">![fistful of frags](https://connorrichlen.me/images/fof_lg.png) Buy Ghost Fists Addon</p>
+<p align="center">  <img src="https://connorrichlen.me/images/fof_lg.png"> <b>Buy Ghost Fists Addon</b>   </p>
 
 
   
 
-This plugin allows you to purchase ghost fists. It is set to reduce prices for Root flag and custom flag <code>'s'</code> by 50%.
+This plugin allows you to purchase the Ghost Fists weapon. It is set to reduce prices for Root flag <code>'z'</code> and custom flag <code>'s'</code> by 50%. Useful for VIP/Donators.
 
  <hr />
   
