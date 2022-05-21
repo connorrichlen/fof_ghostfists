@@ -2,7 +2,7 @@
 
 # [FOF] Buy Ghost Fists Addon
 
-<p align="center">![fistful of frags](https://connorrichlen.me/images/fof_lg.png)<b>Buy Ghost Fists Addon</b></p>
+<p align="center">![fistful of frags](https://connorrichlen.me/images/fof_lg.png) <b>Buy Ghost Fists Addon</b></p>
 
 
   
