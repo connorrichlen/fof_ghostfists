@@ -10,7 +10,7 @@
 
 This plugin allows you to purchase the Ghost Fists weapon. It is set to reduce prices for Root flag <code>'z'</code> and custom flag <code>'s'</code> by 50%. Useful for VIP/Donators.
 
-<img src="https://connorrichlen.me/images/fof_ghostfists/preview2_comp.gif">
+<img src="https://connorrichlen.me/images/fof_ghostfists/ezgif-3-54140eaebb.gif">
 
 
  <hr />
